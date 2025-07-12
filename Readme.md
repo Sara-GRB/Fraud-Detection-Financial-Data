@@ -33,6 +33,11 @@ Run the notebook fraud_detection_pipeline.ipynb in Jupyter or VS Code to reprodu
 
 Source: Kaggle Credit Card Fraud Detection
 
+The dataset `creditcard.csv` is not included in this repository due to its size.
+
+You can download it from [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).
+
+
 ## 📁 Output
 
 All figures and saved models are stored in the results/ folder.
